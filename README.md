@@ -1,5 +1,8 @@
-### Hi there 👋
-#DEVELOPER
+# Hi there 👋
+
+## DEVELOPER
+
+### titulo seccion
 <!--
 **3Trillizo/3Trillizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
